@@ -15,26 +15,33 @@ O elefante tem grande importância em diversas culturas, sendo um símbolo de sa
 ### 🦅 Águias
 
 As águias representam liberdade e poder em várias culturas, especialmente entre os povos indígenas da América do Norte e na simbologia nacional de diversos países.
+![Aguia americana voando](https://github.com/SilviaMoitinho/lab-natty-or-not/blob/f45db093f37765f4faba14547b48ec1d9207ec46/aguia%201.jpeg)
 
 ### 🐅 Tigre
 
 Na cultura chinesa, o tigre simboliza coragem e proteção contra espíritos malignos. Na Índia, também é um animal reverenciado.
+![tigre na savana](https://github.com/SilviaMoitinho/lab-natty-or-not/blob/f45db093f37765f4faba14547b48ec1d9207ec46/tigre%201.jpeg)
 
 ### 🦁 Leão
 
 Os leões são conhecidos como símbolos de força e realeza em muitas culturas africanas e europeias.
+![leao na savana](https://github.com/SilviaMoitinho/lab-natty-or-not/blob/f45db093f37765f4faba14547b48ec1d9207ec46/leao%201.jpeg)
 
 ### 🐋 Baleia
 
 As baleias aparecem frequentemente nas mitologias nórdicas e indígenas, simbolizando mistério, conhecimento e conexão com o oceano.
+![conjunto de baleias](https://github.com/SilviaMoitinho/lab-natty-or-not/blob/f45db093f37765f4faba14547b48ec1d9207ec46/baleia%201.jpeg)
 
 ### 🐬 Golfinhos
 
 Os golfinhos são vistos como criaturas inteligentes e espirituais em diversas culturas, como na mitologia grega e nas crenças polinésias.
+![golfinhos no mar](https://github.com/SilviaMoitinho/lab-natty-or-not/blob/f45db093f37765f4faba14547b48ec1d9207ec46/golfinho%201.jpeg)
 
 ### 🐵 Macacos
 
 Os macacos são reverenciados em algumas tradições asiáticas, especialmente no hinduísmo, onde Hanuman é uma figura importante.
+![macaco na selva](https://github.com/SilviaMoitinho/lab-natty-or-not/blob/f45db093f37765f4faba14547b48ec1d9207ec46/macaco%201.jpeg)
+
 
 ## 📚 Capítulo 2 - O Futuro dos Animais
 
