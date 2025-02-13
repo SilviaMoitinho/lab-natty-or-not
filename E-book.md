@@ -9,37 +9,44 @@ Este eBook explora o papel dos animais em diferentes culturas ao redor do mundo,
 ### 🐘 Elefante
 
 O elefante tem grande importância em diversas culturas, sendo um símbolo de sabedoria e força na Índia e um animal sagrado em muitas religiões.
+
 ![Elefante da india](https://github.com/SilviaMoitinho/lab-natty-or-not/blob/cdda0851474fd5d9a4a5ae798d82f1d4ed0b609b/elefante%201.jpeg)
 
 
 ### 🦅 Águias
 
 As águias representam liberdade e poder em várias culturas, especialmente entre os povos indígenas da América do Norte e na simbologia nacional de diversos países.
+
 ![Aguia americana voando](https://github.com/SilviaMoitinho/lab-natty-or-not/blob/f45db093f37765f4faba14547b48ec1d9207ec46/aguia%201.jpeg)
 
 ### 🐅 Tigre
 
 Na cultura chinesa, o tigre simboliza coragem e proteção contra espíritos malignos. Na Índia, também é um animal reverenciado.
+
 ![tigre na savana](https://github.com/SilviaMoitinho/lab-natty-or-not/blob/f45db093f37765f4faba14547b48ec1d9207ec46/tigre%201.jpeg)
 
 ### 🦁 Leão
 
 Os leões são conhecidos como símbolos de força e realeza em muitas culturas africanas e europeias.
+
 ![leao na savana](https://github.com/SilviaMoitinho/lab-natty-or-not/blob/f45db093f37765f4faba14547b48ec1d9207ec46/leao%201.jpeg)
 
 ### 🐋 Baleia
 
 As baleias aparecem frequentemente nas mitologias nórdicas e indígenas, simbolizando mistério, conhecimento e conexão com o oceano.
+
 ![conjunto de baleias](https://github.com/SilviaMoitinho/lab-natty-or-not/blob/f45db093f37765f4faba14547b48ec1d9207ec46/baleia%201.jpeg)
 
 ### 🐬 Golfinhos
 
 Os golfinhos são vistos como criaturas inteligentes e espirituais em diversas culturas, como na mitologia grega e nas crenças polinésias.
+
 ![golfinhos no mar](https://github.com/SilviaMoitinho/lab-natty-or-not/blob/f45db093f37765f4faba14547b48ec1d9207ec46/golfinho%201.jpeg)
 
 ### 🐵 Macacos
 
 Os macacos são reverenciados em algumas tradições asiáticas, especialmente no hinduísmo, onde Hanuman é uma figura importante.
+
 ![macaco na selva](https://github.com/SilviaMoitinho/lab-natty-or-not/blob/f45db093f37765f4faba14547b48ec1d9207ec46/macaco%201.jpeg)
 
 
@@ -51,29 +58,44 @@ O mundo está mudando, e com ele, os animais também enfrentarão desafios e ada
 
 Com a destruição acelerada de seus habitats, os elefantes poderão diminuir de tamanho para se adaptarem a ambientes mais restritos. Sua pele pode se tornar mais resistente ao calor extremo, e suas presas poderão reduzir devido à caça excessiva.
 
+![elefante sem lar](https://github.com/SilviaMoitinho/lab-natty-or-not/blob/3e359d4eeadf428f36db4e80bdeb7e2f099bf44c/elefante%202.jpeg)
+
 ### 🦅 Águias no Futuro
 
 As águias poderão desenvolver asas mais longas e aerodinâmicas para migrar a distâncias ainda maiores, fugindo de regiões devastadas pelo aquecimento global. Seu olhar já poderoso poderá se tornar ainda mais aguçado para localizar presas escassas.
+
+![aguia fugindo](https://github.com/SilviaMoitinho/lab-natty-or-not/blob/3e359d4eeadf428f36db4e80bdeb7e2f099bf44c/aguia%202.jpeg)
 
 ### 🐅 Tigre no Futuro
 
 Com a destruição das florestas, os tigres podem migrar para regiões montanhosas, desenvolvendo pelagens ainda mais espessas para suportar temperaturas extremas. Sua dieta pode se diversificar para incluir presas menores e até fontes alternativas de proteína.
 
+![tigre](https://github.com/SilviaMoitinho/lab-natty-or-not/blob/3e359d4eeadf428f36db4e80bdeb7e2f099bf44c/tigre%202.jpeg)
+
+
 ### 🦁 Leão no Futuro
 
 Os leões poderão se tornar mais ágeis e caçadores solitários, devido à escassez de presas e a fragmentação dos habitats. Suas juba pode diminuir para evitar superaquecimento em climas extremos.
+
+![leao](https://github.com/SilviaMoitinho/lab-natty-or-not/blob/3e359d4eeadf428f36db4e80bdeb7e2f099bf44c/leao%202.jpeg)
 
 ### 🐋 Baleia no Futuro
 
 Com oceanos mais ácidos e poluídos, as baleias poderão desenvolver mecanismos de filtragem mais avançados para se protegerem de microplásticos. Além disso, podem reduzir seu tamanho para se adaptarem a novos padrões de migração.
 
+![baleia solitaria](https://github.com/SilviaMoitinho/lab-natty-or-not/blob/3e359d4eeadf428f36db4e80bdeb7e2f099bf44c/baleia%202.jpeg)
+
 ### 🐬 Golfinhos no Futuro
 
 A inteligência dos golfinhos pode aumentar ainda mais devido à necessidade de resolver problemas ambientais complexos. Eles poderão desenvolver novos padrões de comunicação para lidar com mudanças nos ecossistemas marinhos.
 
+![golfinho triste](https://github.com/SilviaMoitinho/lab-natty-or-not/blob/3e359d4eeadf428f36db4e80bdeb7e2f099bf44c/golfinho%202.jpeg)
+
 ### 🐵 Macacos no Futuro
 
 Com o avanço das cidades e a destruição de florestas, os macacos podem se tornar ainda mais urbanos, adaptando-se a viver em meio a humanos. Suas habilidades cognitivas podem se expandir, permitindo o uso de ferramentas ainda mais sofisticadas.
+
+![macaco fugindo](https://github.com/SilviaMoitinho/lab-natty-or-not/blob/3e359d4eeadf428f36db4e80bdeb7e2f099bf44c/macaco%202.jpeg)
 
 ## 📚 Capítulo 3 - A Importância da Preservação
 
