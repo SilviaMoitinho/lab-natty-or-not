@@ -10,9 +10,7 @@ Este eBook explora o papel dos animais em diferentes culturas ao redor do mundo,
 
 O elefante tem grande importância em diversas culturas, sendo um símbolo de sabedoria e força na Índia e um animal sagrado em muitas religiões.
 
-<p align="left">
-  <img src="https://github.com/SilviaMoitinho/lab-natty-or-not/blob/cdda0851474fd5d9a4a5ae798d82f1d4ed0b609b/elefante%201.jpeg" >
-</p>
+![Elefante da india](https://github.com/SilviaMoitinho/lab-natty-or-not/blob/cdda0851474fd5d9a4a5ae798d82f1d4ed0b609b/elefante%201.jpeg)
 
 ### 🦅 Águias
 
